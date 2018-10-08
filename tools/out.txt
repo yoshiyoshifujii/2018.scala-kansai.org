@@ -1,0 +1,27 @@
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: タラソワダーシャさん タイトル: http4sとcats-effectで可愛らしい、関数型らしいアプリケーションを書こう！٩(๑^o^๑)۶ https://2018.scala-kansai.org/session/#%E3%82%BF%E3%83%A9%E3%82%BD%E3%83%AF%E3%83%80%E3%83%BC%E3%82%B7%E3%83%A3 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 中村 学(がくぞ)さん タイトル: 明日から使える実践エラーハンドリング https://2018.scala-kansai.org/session/#%E4%B8%AD%E6%9D%91%20%E5%AD%A6(%E3%81%8C%E3%81%8F%E3%81%9E) #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: タラソワダーシャさん タイトル: ZOZOSUITはScalaで動いてるよ！ https://2018.scala-kansai.org/session/#%E3%82%BF%E3%83%A9%E3%82%BD%E3%83%AF%E3%83%80%E3%83%BC%E3%82%B7%E3%83%A3 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: きしだ なおきさん タイトル: Scala-erにも影響ありそうなJavaの現状まとめ https://2018.scala-kansai.org/session/#%E3%81%8D%E3%81%97%E3%81%A0%20%E3%81%AA%E3%81%8A%E3%81%8D #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: grimroseさん タイトル: Akkaを分散トレーシングで見てみよう https://2018.scala-kansai.org/session/#grimrose #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 原田真吾さん タイトル: PHPエンジニアによるScalaエンジニアへの転身とその手引き https://2018.scala-kansai.org/session/#%E5%8E%9F%E7%94%B0%E7%9C%9F%E5%90%BE #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 村上 拓也さん タイトル: Scala でつくる証券会社とスタートアップ https://2018.scala-kansai.org/session/#%E6%9D%91%E4%B8%8A%20%E6%8B%93%E4%B9%9F #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: Lightbend / Konrad Malawskiさん タイトル: The Actor Model and the future of distributed computing https://2018.scala-kansai.org/session/#Lightbend%20/%20Konrad%20Malawski #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 竹添 直樹さん タイトル: 長期的なメンテナンスの必要なScala製システムにおいて気をつけるべきこと https://2018.scala-kansai.org/session/#%E7%AB%B9%E6%B7%BB%20%E7%9B%B4%E6%A8%B9 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: リチャード　伊真岡さん タイトル: アニメーションで理解するAkka StreamsとAkka HTTP https://2018.scala-kansai.org/session/#%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%80%80%E4%BC%8A%E7%9C%9F%E5%B2%A1 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 水島宏太さん タイトル: ScalaらしいIOライブラリ https://2018.scala-kansai.org/session/#%E6%B0%B4%E5%B3%B6%E5%AE%8F%E5%A4%AA #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: kamijin_fantaさん タイトル: Akka HTTPで構築するシンプルなAPIサーバ https://2018.scala-kansai.org/session/#kamijin_fanta #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: Yohei TSUJIさん タイトル: エンタープライズScala https://2018.scala-kansai.org/session/#Yohei%20TSUJI #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: smdmtsさん タイトル: DatabricksとSparkではじめる [データ分析/機械学習] 実践入門 https://2018.scala-kansai.org/session/#smdmts #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 池田健虎さん タイトル: 変位指定についてわかりやすく解説させてください https://2018.scala-kansai.org/session/#%E6%B1%A0%E7%94%B0%E5%81%A5%E8%99%8E #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: かとじゅんさん タイトル: Scalaでのドメインモデリングのやり方 https://2018.scala-kansai.org/session/#%E3%81%8B%E3%81%A8%E3%81%98%E3%82%85%E3%82%93 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 林 大介さん タイトル: AkkaTyped：Akkaで型安全にメッセージパッシングする！ https://2018.scala-kansai.org/session/#%E6%9E%97%20%E5%A4%A7%E4%BB%8B #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 森本真一さん タイトル: circeから学ぶ Generic Programming 入門 https://2018.scala-kansai.org/session/#%E6%A3%AE%E6%9C%AC%E7%9C%9F%E4%B8%80 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 谷口力斗 @tanishikingさん タイトル: Format things with scalafmt https://2018.scala-kansai.org/session/#%E8%B0%B7%E5%8F%A3%E5%8A%9B%E6%96%97%20@tanishiking #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 門脇 拓巳さん タイトル: Readable Code in Scala https://2018.scala-kansai.org/session/#%E9%96%80%E8%84%87%20%E6%8B%93%E5%B7%B3 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 伊藤博志さん タイトル: Scalaで実装してみる簡易ブロックチェーン https://2018.scala-kansai.org/session/#%E4%BC%8A%E8%97%A4%E5%8D%9A%E5%BF%97 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 佐藤 貴比呂さん タイトル: もしExcel方眼紙を愛するSIerがScala案件に投げ込まれたら https://2018.scala-kansai.org/session/#%E4%BD%90%E8%97%A4%20%E8%B2%B4%E6%AF%94%E5%91%82 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: t_horikoshiさん タイトル: Json codec を楽しもう、現場で役立つ circe https://2018.scala-kansai.org/session/#t_horikoshi #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 小紫 弘貴さん タイトル: 実践GraphQL on Scala https://2018.scala-kansai.org/session/#%E5%B0%8F%E7%B4%AB%20%E5%BC%98%E8%B2%B4 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 藤野宏樹さん タイトル: scalaでの並行・並列処理戦略 https://2018.scala-kansai.org/session/#%E8%97%A4%E9%87%8E%E5%AE%8F%E6%A8%B9 #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 濱崎 俊さん タイトル: ゼロから始めるScala文法 (再) https://2018.scala-kansai.org/session/#%E6%BF%B1%E5%B4%8E%20%E4%BF%8A #scala_ks
+Scala関西Summit2018 当日のセッションをご紹介します！スピーカー: 濱崎 俊さん タイトル: 関数プログラミングことはじめ (再) https://2018.scala-kansai.org/session/#%E6%BF%B1%E5%B4%8E%20%E4%BF%8A #scala_ks

@@ -10,10 +10,12 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "precommit": "npm run lint"
+    "precommit": "npm run lint",
+    "tweets": "node ./tools/send_speaker.js > ./tools/out.txt"
   },
   "dependencies": {
     "bootstrap": "^4.1.1",
+    "js-yaml": "^3.12.0",
     "marked": "^0.4.0",
     "node-sass": "^4.9.3",
     "normalize.css": "^8.0.0",
