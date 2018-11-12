@@ -13,7 +13,7 @@ speakers:
       アメリカの大学での「ScalaでJavascriptのインタープリターを作ろー！」という謎な授業からScalaを触っています。
       新卒の時に日本の企業に就職し、2018の3月にScala好き担当としてZOZO Technologiesに転職。
     image: /speakers/F6KEqpw.jpeg
-    slide:
+    slide: https://speakerdeck.com/dysangelist/tagless-final
     movie:
 
   - name: 中村 学(がくぞ)
