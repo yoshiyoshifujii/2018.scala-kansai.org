@@ -179,7 +179,7 @@ speakers:
       Twitter: https://twitter.com/takezoen
       Blog: http://takezoe.hatenablog.com/
     image: /speakers/1094760.png
-    slide:
+    slide: https://www.slideshare.net/takezoe/how-to-keep-maintainability-of-long-life-scala-applications
     movie:
 
   - name: リチャード　伊真岡
